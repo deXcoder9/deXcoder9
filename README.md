@@ -4,15 +4,15 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=3400&lines=Hi+There!+😺;+I'm+Fahim+Shariare+Dhrubo!;" />
 </h1>
 
-<h3 align="left">A passionate web developer</h3>
+<h3 align="center">A passionate web developer</h3>
 
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td style="text-align: left; vertical-align: top;">
-      <!-- Content of the first div -->
- 🎓 I’m currently studying as a Student
- 
-🌱 I’m currently exploring Next.js
+        
+ 🎓 I’m currently studying as  **a Student**
+
+🌱 I’m currently exploring **Next.js**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/deXcoder9/deXcoder9/issues)**
 
@@ -24,3 +24,52 @@
     </td>
   </tr>
 </table>
+
+<div align="center"> 
+  <a href="mailto:dhrubothejuniorprogrammer@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://salesp07.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<div align="center">
+    <br/>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,r" />
+<br/>
+<br/>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,firebase,mongodb" /><br>
+    <br/>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
