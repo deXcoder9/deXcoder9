@@ -37,9 +37,9 @@
   </a>
 </div>
 
- <hr/>
+<br/><br/> 
  
-<h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
+<h3 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h3>
 
 <div align="center">
     <br/>
@@ -50,24 +50,23 @@
     <br/>
 </div>
 
+<h3 align="center">⚡ Stats ⚡  </h3>
+<div align=center>
+  <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deXcoder9&count_private=true&theme=react&border_radius=10"  alt="streak stats"/>
+  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=deXcoder9&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+</div>
+
+
+
 <div align="center">
-  <h2>🩻 My Contributions 🩻 </h2>
-  <br>
+  <h3>🩻 My Contributions 🩻 </h3>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/deXcoder9/deXcoder9/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡  </h2>
-<br>
-<div align=center>
-  <img width=390 height=195 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=deXcoder9&count_private=true&theme=react&border_radius=10"  alt="streak stats"/>
-  <img width=390 height=200 src="https://github-readme-stats-salesp07.vercel.app/api?username=deXcoder9&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  
-</div>
 
 
 
