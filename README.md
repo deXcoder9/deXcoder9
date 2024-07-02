@@ -10,11 +10,11 @@
   <tr>
     <td style="text-align: left; vertical-align: top;">
       <!-- Content of the first div -->
-🔭 I’m currently working on **a marketplace**
+ 🎓 I’m currently studying as a Student
  
-🌱 I’m currently learning **Docker, Supabase, AWS**
+🌱 I’m currently exploring Next.js
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/deXcoder9/deXcoder9/issues)**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
     </td>
