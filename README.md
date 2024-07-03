@@ -15,8 +15,6 @@
 🌱 I’m currently exploring **Next.js**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/deXcoder9/deXcoder9/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
     </td>
     <td style="text-align: right; vertical-align: top;">
       <!-- Content of the second div -->
